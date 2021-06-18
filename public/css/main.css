@@ -1,0 +1,29 @@
+.nav-link {
+    text-decoration: none;
+    color:white;
+}
+.nav-link:hover {
+    color:black;
+}
+#app {
+    display: flex;
+}
+#right-bar{
+    padding: 40px 90px;
+    width: 100%;
+}
+.message-group{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px
+
+}
+.message-title{
+    font-weight: bold; font-size: 20px
+}
+
+
+body {
+    background-color: #f9f9fa
+}
